@@ -1,0 +1,404 @@
+<pre>
+<p>
+
+<body><h1><p><font color="green" face="Arial">Present simple(простое настоящее время)</font></p></h1>
+<p><font size="4" face="Times New Roman">
+Время Present Simple обозначает действие в настоящем в широком смысле слова.
+Оно употребляется для обозначения обычных, регулярно повторяющихся или
+постоянных действий, например, когда мы говорим о чьих-либо привычках,
+режиме дня, расписании и т. д., т. е. Present Simple обозначает действия,
+которые происходят в настоящее время, но не привязаны именно к моменту речи.
+</font>
+</p>
+<h2><strong>Образование Present simple</strong></h2>
+
+
+<h3><strong>Утвердительные предложения</strong></h3>
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc">I play
+Я играю</td>
+<td>We play
+Мы играем</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">You play
+Ты играешь</td>
+<td>You play
+Ты играешь</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">He/she/it plays
+Он/она/это/играет</td>
+<td>They play
+Они играют</td>
+</tr>
+</table>
+
+
+<h3><strong>Вопросительные предложения</strong></h3>
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc">Do i play?
+Я играю?</td>
+<td>Do we play?
+Мы играем?</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">Do you play?
+Ты играешь?</td>
+<td>Do you play?
+Ты играешь?</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">Does he/she/it play?
+Он/она/это/играет?</td>
+<td>Do they play?
+Они играют?</td>
+</tr>
+</table>
+
+
+
+<h3><strong>Отрицательные предложения</strong></h3>
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc">I do not play
+Я не играю</td>
+<td>We do not play
+Мы не играем</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">You do not play
+Ты не играешь</td>
+<td>You do not play
+Ты не играешь</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">He/she/it does not play
+Он/она/это/ не играет</td>
+<td>They do not play
+Они не играют</td>
+</tr>
+</table>
+
+
+<p><font size="4" face="Times New Roman">
+Английский глагол во временной форме Present Simple почти всегда совпадает
+со своей начальной, то есть указанной в словаре, формой без частицы to.
+Лишь в 3-ем лице единственного числа к ней нужно прибавить окончание -s:
+</font>
+</p><h3><strong>Examples</strong></h3><p><font size="4" face="Times New Roman">
+1.I work – he works
+2.I play – he plays
+</font>
+</p><p><font size="4" face="Times New Roman">
+Для того, чтобы построить вопросительное предложение,
+перед подлежащим нужно поставить вспомогательный глагол.
+Время Present Simple используется без него, поэтому в этом
+случае добавляется вспомогательный глагол do (или does в 3 л. ед. ч.):
+</font>
+</p><h3><strong>Examples</strong></h3><p><font size="4" face="Times New Roman">
+1.Does he speak Spanish? - Он говорит по-испански?
+2.Do you like rock? - Тебе нравится рок?
+</font>
+</p><p><font size="4" face="Times New Roman">
+В отрицательных предложениях тоже используется вспомогательный
+глагол do/does, но не перед подлежащим, а пепримерыред глаголом.
+После него прибавляется отрицательная частица not.
+Do/does и not часто сокращаются до don’t и doesn’t соответственно:
+</font>
+</p><h3><strong>Examples</strong></h3><p><font size="4" face="Times New Roman">
+1.I do not like black coffee. - Я не люблю черный кофе.
+2.She doesn't smoke. - Она не курит.
+</font>
+</p>
+
+
+<body><h1><p><font color="green" face="Arial">Present continuous(настоящее длительное время)</font></p></h1>
+<p><font size="4" face="Times New Roman">
+Времена группы Continuous указывают на процесс,
+действие, длящееся в определенный момент в прошлом,
+настоящем или будущем.
+
+Время Present Continuous обычно указывает на процесс,
+длящийся непосредственно в момент речи.
+На это могут указывать контекст или такие слова^
+now – сейчас;
+at the moment – в текущий момент;
+</font>
+</p>
+
+<h3><strong>Утвердительные предложения</strong></h3>
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc">I am playing
+Я играю</td>
+<td>We are playing
+Мы играем</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">You are playing
+Ты играешь</td>
+<td>You are playing
+Ты играешь</td>
+</tr>
+<tr>Am i playing?
+<td style="background-color:#ffffcc">He/she/it  is playing
+Он/она/это/играет</td>
+<td>They are playing
+Они играют</td>
+</tr>
+</table>
+
+
+<h3><strong>Вопросительные предложения</strong></h3>
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc">Am i playing?
+Я играю?</td>
+<td>Are we playing?
+Мы играем?</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">Are you playing?
+Ты играешь?</td>
+<td>Are you playing?
+Ты играешь?</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">Is he/she/it play?
+Он/она/это/играет?</td>
+<td>Are they play?
+Они играют?</td>
+</tr>
+</table>
+
+
+
+<h3><strong>Отрицательные предложения</strong></h3>
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc">I am not playing
+Я не играю</td>
+<td>We are not playing
+Мы не играем</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">You are not playing
+Ты не играешь</td>
+<td>You are not playing
+Ты не играешь</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">He/she/it is not playing
+Он/она/это/ не играет</td>
+<td>They are not playing
+Они не играют</td>
+</tr>
+</table>
+
+
+<p><font size="4" face="Times New Roman">
+Для того, чтобы поставить глагол в форму времени Present Continuous,
+требуется вспомогательный глагол to be в настоящем времени и причастие
+настоящего времени (Participle I) смыслового глагола.
+
+To be в настоящем времени имеет три формы:
+
+am – 1 лицо, ед. ч. (I am shaving.)
+is – 3 лицо, ед. ч. (He is  reading.)
+are – 2 лицо ед. ч. и все формы мн. ч. (They are sleeping.)
+Примечание:
+Личные местоимения и вспомогательный глагол часто сокращаются
+до I’m, he’s, she’s, it’s, we’re, you’re, they’re.
+Причастие настоящего времени (Participle I) можно получить,
+прибавив к начальной форме значимого глагола окончание -ing:
+1.ump – jumping
+2.live – living
+
+В вопросительном предложении вспомогательный глагол
+выносится на место перед подлежащим, а значимый глагол остается после него:
+1.Why are you laughing? - Почему ты смеешься?
+2.Are you using this dictionary? - Вы используете этот словарь?
+
+В отрицательных предложениях за вспомогательным глаголом следует отрицательная
+частица not. Формы is и are при этом могут быть
+сокращены до isn’t и aren’t соответственно.
+She is not standing. - Она не стоит.
+Radio isn’t working. - Радио не работает.
+
+<strong>Случаи употребления Present Continuous</strong>
+Указание на процесс, происходящий непосредственно в момент разговора:
+The doctor is conducting an operation now. - Врач сейчас проводит операцию.
+Jack is talking on the phone at the moment. - В настоящий момент Джек разговаривает по телефону.
+
+Действие, находящееся в процессе своего развития, но необязательно происходящее в момент разговора:
+Chicago police are investigating the case. - Полиция Чикаго расследует дело.
+Описание повторяющихся действий с использованием слов always,
+constantly, forever. Как правило это относится к характерным
+
+свойствам и поведению людей, часто с негативной окраской:
+He is constantly complaining about his brother. - Он постоянно жалуется на своего брата.
+
+Запланированное действие в будущем, часто с глаголами движения:
+We are landing in Heathrow in 20 minutes. - Мы приземляемся в Хитроу через 20 минут.
+He is speaking at the conference this evening. - Он выступает на конференции этим вечером
+</font>
+</p>
+
+
+
+
+
+<body><h1><p><font color="green" face="Arial">Past Continuous(прошедшее длительное время)</font></p></h1>
+<p><font size="4" face="Times New Roman">
+Время Past Continuous указывает на процесс,
+длившийся в определенный момент или период в прошлом.
+В отличие от времени Past Simple, этот момент в прошлом
+должен быть назван прямо (например, yesterday at 5 o’clock,
+when you called, when rain started) или быть очевидным из контекста.
+
+1.When you called I was taking a shower. - Когда ты позвонил, я принимал душ.
+2.Charlie and me were already driving home when the engine suddenly stopped. -
+Мы с Чарли уже ехали домой, как вдруг заглох мотор.
+</font>
+</p>
+
+<h3><strong>Утвердительные предложения</strong></h3>
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc">I was playing
+Я играл</td>
+<td>We were playing
+Мы играем</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">You were playing
+Ты играл</td>
+<td>You were playing
+Ты играл</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">He/she/it was playing
+Он/она/это/играл</td>
+<td>They were playing
+Они играли</td>
+</tr>
+</table>
+
+
+<h3><strong>Вопросительные предложения</strong></h3>
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc">Was I playing?
+Я играл?</td>
+<td>Were we playing?
+Мы играли?</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">Were you playing?
+Ты играл?</td>
+<td>Were you playing?
+Ты играл?</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">Was he/she/ it playing?
+Он/она/это/играл?</td>
+<td>Were they playing?
+Они играли?</td>
+</tr>
+</table>
+
+
+
+<h3><strong>Отрицательные предложения</strong></h3>
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc">I was not playing
+Я не играл</td>
+<td>We were not playing
+Мы не играли</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">You were not playing
+Ты не играл</td>
+<td>You were not playing
+Ты не играл</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">He/she/it was not playing
+Он/она/это/ не играл</td>
+<td>They were not playing
+Они не играли</td>
+</tr>
+</table>
+
+
+<p><font size="4" face="Times New Roman">
+Для того, чтобы поставить глагол в форму Past Continuous,
+нужен вспомогательный глагол to be в прошедшем времени и причастие
+настоящего времени (Participle I) смыслового глагола.
+
+To be в прошедшем времени имеет две формы:
+
+was – 1 и 3 лицо ед. ч. (I was smoking. He was eating.)
+were – 2 лицо ед. ч. и все формы мн. ч. (They were laughing.)
+В вопросительном предложении вспомогательный глагол выносится
+на место перед подлежащим, а значимый глагол остается после него:
+
+Were you sleeping when I called? You sounded drowsy.
+Ты спал, когда я позвонил? Ты казался сонным.
+В отрицательных предложениях за вспомогательным глаголом
+следует отрицательная частица not. Формы was и were при
+этом могут быть сокращены до wasn’t и weren’t соответственно.
+
+We were not playing chess when you called. - Мы не играли в шахматы, когда ты звонил.
+In the morning our elevator wasn’t working. - Утром наш лифт не работал.
+
+<strong>Случаи употребления Past Continuous</strong>
+Указание на процесс, происходивший в конкретный момент времени в прошлом:
+I was sleeping when someone knocked at the door. - Когда я спал, кто-то постучал в дверь.
+</font>
+</p>
+
+
+
+
+<body><h1><p><font color="green" face="Arial">Past simple(простое прошедшее время)</font></p></h1>
+<p><font size="4" face="Times New Roman">
+<strong>Утверждение</strong>
+Для того чтобы образовать Past Simple, мы добавляем к глаголу окончание -ed,
+если глагол правильный (work – worked, learn – learned, ask – asked).
+Если глагол неправильный, то мы ищем форму для Past Simple во второй
+колонке таблицы неправильных глаголов. Скорее всего, на первых порах
+вам будет трудно сразу определить, какой перед вами глагол.
+Неправильный глагол вы найдете в таблице. Если же его там нет, он правильный.
+
+2-я форма глагола
+1.We discussed. – Мы обсудили.
+2.You did. – Вы сделали.
+3.They forgot. – Они забыли.
+
+<strong>Отрицание</strong>
+В отрицательном предложении в Past Simple появляется вспомогательный
+глагол did (вторая форма неправильного глагола do) и частица not.
+В английском предложении только один глагол может быть в прошедшем времени,
+поэтому, как только появляется did, основной глагол принимает форму
+инфинитива без частички to (go, look, feel).
+1.We did not discuss. – Мы не обсудили.
+2.You did not do. – Вы не сделали.
+3.They did not forget. – Они не забыли.
+
+<strong>Вопрос</strong>
+Чтобы задать вопрос в Past Simple,
+мы ставим на первое место did,
+после него подлежащее, потом основной глагол.
+1.Did we discuss? – Мы обсудили?
+2.Did you do? – Вы сделали?
+3.Did they forget? – Они забыли?
+</font>
+</p>
+
+</p>
+</pre>

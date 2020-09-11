@@ -1,0 +1,223 @@
+<pre>
+<h1><font color="green">Clothes</font></h1>
+<h3><p><font  face="Arial">Основные типы одежды и обуви:
+Clothes(Одежда):</font></p></h3>
+<p><font size="4" face="Times New Roman">
+belt пояс
+blouse блузка
+bikini бикини
+coat пиджак, куртка
+costume женский костюм, (а также исторический, театральный)
+cardigan кардиган
+dress платье
+dinner jacket смокинг (также tuxedo)
+gloves перчатки
+hat шляпа
+hoodie / hoody толстовка с капюшоном
+jacket куртка 
+jeans джинсы
+jersey вязаная кофта
+jumper джемпер
+overcoat пальто
+polo neck водолазка (polo—neck sweater ( shirt)  — одежда с воротом «поло»)
+scarf шарф
+shirt рубашка, блузка, сорочка
+shorts шорты
+skirt юбка (юбка-карандаш, прямая юбка – pencil skirt)
+socks носки
+sweater свитер
+swimsuit / bathing suit купальник
+tie галстук
+tights (брит.)/pantyhose (амер.) колготки
+track suit спортивный костюм
+trousers брюки
+T-shirt футболка
+waistcoat жилет
+
+<h3><p><font face="Arial">Shoes(Обувь):</font></p></h3>
+
+boots ботинки (high boots – сапоги)
+flip flops резиновые шлепанцы (в России такая обувь обычно называется «сланцы»)
+heels каблуки, туфли на каблуках
+sandals сандалии
+shoes туфли
+slippers тапочки
+trainers/gym shoes кроссовки, обувь для занятия спортом
+
+<h3><p><font  face="Arial">Sentences(Фразы):</font></p></h3>
+
+1)Clothes help some people to feel like an individual. - Одежда помогает некоторым людям чувствовать себя 
+личностью.
+2)I'm wearing blue shorts. - Я одел синие шорты.
+3)I bought a nice shirt. - Я купил красивую майку.
+4)My sister is wearing a date dress. - Моя сестра одела платье на свидание.
+5)People can choose what to wear on different occasions. - Люди могут выбирать, что надеть по разным поводам.
+6)Young people try to wear trendy clothes. - Молодые люди стараются носить модную одежду.
+</font>
+</p>
+
+
+<h1><font color="green">Family</font></h1>
+<p><font size="4" face="Times New Roman">
+aunt — тетя
+baby — грудной ребенок
+boyfriend — возлюбленный, молодой человек
+brother — брат
+brother-in-law — зять (муж сестры) / шурин (брат жены) / свояк (муж свояченицы) / деверь (брат мужа)
+child / kid — ребенок
+children / kids — дети
+cousin — двоюродный брат, двоюродная сестра
+dad / daddy — папа
+daughter — дочь
+daughter-in-law — невестка, сноха (жена сына)
+father — отец
+father-in-law — свекор (отец мужа), тесть (отец жены)
+folks / family — семья
+foster child — приемыш
+foster father — приемный отец
+foster mother — приемная мать
+girlfriend — возлюбленная, девушка
+godchild — крестник, крестница
+goddaughter — крестница
+godfather — крестный отец
+godmother — крестная мать
+godson — крестник
+grandchild — внук, внучка
+granddad —  дедушка
+granddaughter — внучка
+grandfather — дедушка
+grandmother — бабушка
+grandson — внук
+great granddaughter — правнучка
+great grandfather — прадед
+great grandmother — прабабушка
+great grandson — правнук
+husband — муж
+maternal grandfather — дедушка по линии матери
+maternal grandmother — бабушка по линии матери
+mother — мать
+mother-in-law — свекровь (мать мужа), теща (мать жены)
+mum — мама
+nephew — племянник
+niece — племянница
+parents — родители
+paternal grandfather — дедушка по линии отца
+paternal grandmother — бабушка по линии отца
+relatives — родственники
+sister — сестра
+sister-in-law — невестка (жена брата)
+son — сын
+son-in-law — зять (муж дочери)
+spouse — супруг, супруга
+stepbrother / half brother — сводный брат
+stepchild — пасынок, падчерица
+stepdaughter — падчерица
+stepfather — отчим
+stepmother — мачеха
+stepsister / half sister — сводная сестра
+stepson — пасынок
+uncle — дядя
+wife — жена
+
+<h3><p><font  face="Arial">Sentences(Фразы):</font></p></h3>
+
+1)I have a sister. She is a university student. She likes sports. – У меня есть сестра. Она студентка университета. 
+Она любит спорт.
+2)Yes, she loves her husband. - Да,она любит своего мужа.
+3)I have many brothers. - У меня много братьев.
+4)My father is a builder. He builds houses. He is strong and clever. – Мой отец строитель.
+Он строит дома. Он сильный и умный.
+5)My father-in-law is a very wise man. – Мой тесть очень мудрый человек.
+6)I am going to visit my godfather. – Я собираюсь навестить своего крестного отца.
+</p>
+
+
+<h1><font color="green">Relationship</font></h1>
+<p><font size="4" face="Times New Roman">
+attitude - отношение	
+relations - отношения	
+treat - относиться	
+relationship - взаимоотношения	
+mutual - взаимный	
+communication - общение	
+cooperation - взаимодействие	
+communicate - общаться	
+contact - контактировать		
+meet - встречаться	
+part with - расстаться	
+acquaintance - знакомство	
+like - нравиться	
+dislike - не нравиться	
+love - любить	
+loathe - не любить	
+approval - одобрение	
+approve - одобрять	
+disapproval - неодобрение	
+condemnation - осуждение	
+condemn - осудить	
+convict - приговорить	
+frendship - дружба	
+be friends - дружить	
+friend - друг	
+compatriot - земляк	
+enemy - враг	
+hostile - враждебный	
+hatred - ненависть	
+hate - ненавидеть	
+parting - разлука	
+separation - разделение	
+part - разлучаться	
+abandon - бросить	
+leave - покинуть	
+be infaithful - изменить	
+make up - мириться	
+argument - спор	
+debate - дебаты	
+argue - спорить	
+scold - ругаться	
+confidence - уверенность	
+trust - доверие	
+distrust - недоверие	
+respect - уважать	
+authority - авторитет	
+contempt - презрение	
+despise - презирать	
+worry - забота	
+take care - заботиться	
+attentive - внимательный	
+help - помощь	
+assist - помогать	
+support - поддержка	
+protection - защита	
+protect - защищать	
+stand up - заступаться	
+rescue - выручать	
+save - спасти	
+advice - совет	
+advise - советовать	
+consult - консультироваться	
+request - просьба
+ask - просить	
+demand - требование	
+demand - требовать	
+invitation - приглашение	
+invite - приглашать	
+visit - навестить	
+go to see - пойти в гости	
+treat - угощать	
+consent - согласие	
+agree - согласиться	
+refusal - отказ	
+refuse - отказаться	
+objection - возражение	
+object - возражать
+
+<h3><p><font face="Arial">Sentences(Фразы):</font></p></h3>
+1)Our relationship is like an adventure. - Наши отношения напоминают приключение.
+2)I help my mom every day. - Я помогаю моей маме каждый день.
+3)I made an invitation to my birthday party. - Я сделал приглашение на мой день рождение.
+4)What is the relationship between politics and war? - Какова связь между политикой и войной?
+5)I can't refuse her anything. - Я ни в чём не могу ей отказать.
+6)Don't treat me like I'm stupid. - Не обращайся со мной как с придурком.
+</p>
+</pre>

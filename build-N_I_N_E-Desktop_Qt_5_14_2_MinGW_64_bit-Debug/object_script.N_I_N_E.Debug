@@ -1,0 +1,10 @@
+debug/animals.o
+debug/food.o
+debug/main.o
+debug/mainwindow.o
+debug/window_game_1.o
+debug/qrc_resss.o
+debug/moc_animals.o
+debug/moc_food.o
+debug/moc_mainwindow.o
+debug/moc_window_game_1.o

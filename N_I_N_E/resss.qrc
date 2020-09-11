@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>base_frame .png</file>
+        <file>shablon.png</file>
+        <file>soks.png</file>
+        <file>family.png</file>
+        <file>ralation.png</file>
+        <file>theory_0.png</file>
+        <file>power-button_ON.png</file>
+        <file>power_button_off.jpg</file>
+        <file>food.png</file>
+        <file>animals.png</file>
+        <file>to_be.png</file>
+        <file>phrases.png</file>
+        <file>past_simple.png</file>
+        <file>past_continuous.png</file>
+        <file>present_simple.png</file>
+        <file>perfct_cont.png</file>
+        <file>plural_exception.png</file>
+        <file>plural.png</file>
+        <file>THE.png</file>
+        <file>clothes.txt</file>
+        <file>NINE_DB.db</file>
+        <file>ааааа.txt</file>
+        <file>animals/cow.png</file>
+        <file>animals/Donkey.png</file>
+        <file>animals/duck.png</file>
+        <file>animals/Fox.png</file>
+        <file>animals/Horse.png</file>
+        <file>animals/Kitten.png</file>
+        <file>animals/Lion.png</file>
+        <file>animals/Panda.png</file>
+        <file>animals/sheep.png</file>
+        <file>pluralexception.txt</file>
+        <file>food/banana.png</file>
+        <file>food/Carrot.png</file>
+        <file>food/fish.png</file>
+        <file>food/kiwi.png</file>
+        <file>food/meat.png</file>
+        <file>food/melon.png</file>
+        <file>food/pineapple.png</file>
+        <file>food/raspberry.png</file>
+        <file>food/Strawberry.png</file>
+        <file>time_theotry.txt</file>
+        <file>dxxxx.chm</file>
+    </qresource>
+</RCC>

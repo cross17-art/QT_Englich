@@ -1,0 +1,235 @@
+<pre>
+<p>
+<body><h1><p><font color="green" face="Arial">Местоимения и глагол To Be в настоящем времени</font></p></h1>
+
+
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+
+<tr>
+<td style="background-color:#ffffcc">I</td>
+<td>я</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">You</td>
+<td>ты,вы</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">He</td>
+<td>он</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">She</td>
+<td>она</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">It</td>
+<td>оно, это</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">We</td>
+<td>мы</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">They</td>
+<td>они</td>
+</tr>
+</table>
+
+
+
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+
+<tr>
+<td style="background-color:#ffffcc">I am</td>
+<td>я есть</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">You are</td>
+<td>ты,Вы есть</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">He is</td>
+<td>он есть</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">She is</td>
+<td>она есть</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">It is</td>
+<td>оно, это есть</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">We are</td>
+<td>мы есть</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">They are</td>
+<td>они есть</td>
+</tr>
+</table>
+
+<body><h1><p><font color="green" face="Arial">Phrases</font></p></h1>
+<p><font size="4" face="Times New Roman">
+How is it going? Как идут дела?
+How's life? Как жизнь?
+How are things?	Как оно?
+Long time no see! Давно не виделись!
+What are you up to? Чем занимаешься?
+What have you been up to? Чем занимался все это время?
+See you soon! До скорого!
+See you later! Увидимся позже!
+n short / in brief вкратце
+In a word в двух словах
+As far / as to что касается
+Not to mention не говоря уже о
+First of all/ above all	прежде всего
+What’s more кроме того
+By the way кстати
+After all в итоге
+Just for the record для справки
+And so on and so forth и так далее
+If I’m not mistaken если я не ошибаюсь
+Perhaps	Возможно, может быть
+Of course / Sure Конечно
+Definitely Определенно, непременно
+Absolutely Безусловно
+Naturally Естественно
+Probably Вероятно
+You are right Вы правы
+It can hardly be so Вряд ли это так
+Very well Очень хорошо
+Most likely Скорее всего
+I’m so sorry! Мне очень жаль!
+I beg your pardon! Прошу прощения!
+I’m sorry, I can’t. Простите, не могу.
+Sorry, I meant well. Извините, я хотел как лучше.
+It’s very kind of you! Это очень мило с вашей стороны!
+Thank you anyway! В любом случае, спасибо!
+Thank you in advance! Спасибо заранее!
+</font>
+</p>
+
+<body><h1><p><font color="green" face="Arial">Animals</font></p></h1>
+<p><font size="4" face="Times New Roman">
+cat кошка
+kitten	котенок
+dog собака
+puppy щенок
+guinea pig морская свинка
+hamster хомяк
+rat крыса
+parrot попугай
+goldfish золотая рыбка
+turtle черепаха
+amel верблюд
+elephant слон
+leopard	леопард
+cheetah	гепард
+giraffe	жираф
+kangaroo кенгуру
+lion лев
+tiger тигр
+ostrich	страус
+peacock	павлин
+panther	пантера
+monkey	обезьяна
+badger барсук
+bat летучая мышь
+bear медведь
+deer олень
+fox лисица
+hare заяц
+hedgehog еж
+mole крот
+mouse мышь
+rabbit кролик
+rat крыса
+squirrel белка
+wolf волк
+weasel ласка
+</p></font>
+
+<body><h1><p><font color="green" face="Arial">Food</font></p></h1>
+<p><font size="4" face="Times New Roman">
+bacon бекон
+beef говядина
+chicken курица
+duck утка
+ham ветчина
+lamb мясо ягненка
+liver печень
+meat мясо
+mutton  баранина
+ox tongue говяжий язык
+patridge куропатка
+pork  свинина
+poultry  птица, дичь
+sausage  сосиска
+tenderloin филе, вырезка
+turkey индейка
+veal  телятина
+venison оленина
+pikeperch судак
+plaice камбала
+salmon семга
+sardines сардины
+sole морской язык
+sturgeon осетрина
+trout форель
+asparagus спаржа
+avocado авокадо
+bean sprout стручковая фасоль
+beans бобы
+beet свекла
+broccoli брокколи
+brussels sprout брюссельская капуста
+cabbage капуста
+carrot  морковь
+cucumber огурец
+eggplant / aubergine баклажан
+garlic чеснок
+leek  лук-порей
+onion лук репчатый
+pea  горох
+pepper стручковый перец
+potato  картофель
+scallion  зеленый лук
+spinach  шпинат
+pumpkin / squash  тыква
+almond миндаль
+apple яблоко
+apricot абрикос
+banana банан
+berry ягода
+blackberry ежевика
+blueberry черника
+brazil nut бразильский орех
+cashew кешью
+cherry вишня
+cranberry клюква
+grape виноград
+grapefruit грейпфрут
+hazelnut лесной орех
+lemon лимон
+lime лайм
+macadamia орех макадами
+melon дыня
+orange апельсин
+peach персик
+peanut арахис
+pear груша
+pecan орех пекан
+pineapple ананас
+pistachio фисташки
+plum слива
+raspberry малина
+strawberry клубника
+tangerine / mandarin мандарин
+walnut грецкий орех
+watermelon арбуз
+turnip  репа
+
+</p></font>
+</p>
+</pre>

@@ -1,0 +1,186 @@
+<pre>
+<p>
+<body><h1><p><font color="green" face="Arial">Plural exception или исключение множественного числа</font></p></h1>
+<h2><p><font  face="Arial">Множественное число существительных</font></p></h2>
+<p><font size="4" face="Times New Roman">
+В английском множественное число существительных образуется проще
+проще чем в русском - нужно просто пдставить <font color="blue">- s</font>!
+</p>
+
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+
+<tr>
+<td style="background-color:#ffffcc">boy
+мальчик</td>
+<td>boy<font color="blue">s</font>
+мальчики</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">apple
+яблоко</td>
+<td>apple<font color="blue">s</font>
+яблоки</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">newspaper
+газета</td>
+<td>newspaper<font color="blue">s</font>
+газеты</td>
+</tr>
+</table>
+<p><font size="4" face="Times New Roman">
+Однако, существуют исключения.
+Вот некоторые из них:
+</p>
+
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc">man
+мужчина</td>
+<td><font color="blue">men</font>
+мужчины</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">woman
+женщина</td>
+<td><font color="blue">women</font>
+женщины</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc">child
+ребёнок</td>
+<td><font color="blue">children</font>
+дети</td>
+</tr>
+</table>
+
+<h2><p><font  face="Arial">Глаголы</font></p></h2>
+<p><font size="4" face="Times New Roman">
+По-русски мы говорим <strong>вы едите</strong>,
+<strong>они едят</strong>, <strong>мы едим</strong>, и т.д. А в
+английском форма глагола
+меняется только с <strong>he</strong> и <strong>she</strong> !
+</font>
+</p>
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc"><strong>I/you/we/they</strong>
+я/ты/ мы/они</td>
+<td><strong>read</strong>
+читую/читаешь/
+читаем/читают</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc"><strong>he/she</strong>
+он/она</td>
+<td><strong>read<font color="blue">s</font></strong>
+женщины</td>
+</tr>
+</table>
+<p><font size="4" face="Times New Roman">
+Когда вы называете предметы или
+людей, нужно употреблять слово <font color="blue">be</font>,
+которое изменяется чаще, чем остальные глаголы.
+Помните о том, что в отличие от русского, форма
+слова <font color="blue">be</font> употребляется в
+предложении всегда!
+</font>
+</p>
+
+<table border="5" cellspacing="0" cellpadding="15" width="1302" height="100%">
+<tr>
+<td style="background-color:#ffffcc"><strong>I</strong>
+я</td>
+<td><font color="blue">am</font>
+(формы "быть")</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc"><strong>you/we/they</strong>
+ты/мы/они</td>
+<td><font color="blue">are</font>
+(формы "быть")</td>
+</tr>
+<tr>
+<td style="background-color:#ffffcc"><strong>he/she</strong>
+он/она</td>
+<td><font color="blue">is</font>
+(формы "быть")</td>
+</tr>
+</table>
+<h2><p><font  face="Arial">Examples</font></p></h2>
+<p><font size="4" face="Times New Roman">
+I <font color="blue">have</font> water - У меня есть вода.(Буквально:Я имею воду)
+We <font color="blue">have</font> children - У нас есть дети(Буквально:Мы имеем детей)
+He <font color="blue">has</font> an apple - У него есть яблоко.(Буквально:Он имеет яблоко)
+She <font color="blue">has</font> a book - У нее есть книга(Буквально: Она имеет книгу)
+</p>
+</p></font>
+
+
+<body><h1><p><font color="green" face="Arial">Plural(Множественное число)</font></p></h1>
+<h2><p><font  face="Arial">Sandwiches and Milk</font></p></h2>
+<p><font size="4" face="Times New Roman">
+В английском разница между
+одним и несколькими предметами
+выражается очень просто - нужно
+только добавить<font color="blue">-s!</font>Однако
+если слово заканчивается на <strong>-s, -sh, -ch, -x</strong>
+и <strong>-z</strong>, то добавляется <font color="blue">-es.</font>
+
+<strong>The boys eat sandwich<font color="blue">es</font></strong>
+Мальчики едят бутерброды.
+
+<strong>We read the newspaper<font color="blue">s</font></strong>
+Мы читаем (эти) газеты.
+
+Не забудьте, что слова,
+обозначающие жидкости и
+некоторые виды еды, не имеют
+формы множественного числа -
+они могут быть только в единственном числе.
+
+<strong>The cats drink<font color="blue"> milk</font></strong>
+(Эти) кошки пьют молоко.
+</p>
+
+<h2><p><font  face="Arial">Cats eat meat!</font></p></h2>
+<p><font size="4" face="Times New Roman">
+В английском, когда мы говорим о существительных
+во множественном числе в общем, то мы просто скажем
+<strong>Children read books!</strong> или <strong>Dogs eat meat!</strong>
+
+
+<strong>Cats eat meat</strong>
+Кошки едят мясо.
+
+Однако когда мы говорим о чём-то
+конкретном, мы используем <font color="blue"> the</font>.
+Тем самым мы предполагаем, о каких именно
+кошках или о какой именно
+еде идёт речь.
+
+<strong><font color="blue">The</font> cats eat <font color="blue">the</font> meat</strong>
+(Эти)кошки едят (это) мясо.
+</font>
+</p>
+
+
+<body><h1><p><font color="green" face="Arial">Определенный артикаль The</font></p></h1>
+<p><font size="4" face="Times New Roman">
+1. Повторное употребление слова, слово употреблялось в контексте:
+This is a flower. The flower is red.
+2.Перед существительными, которые известны в единственном роде:
+The sun, the God/
+3.С географическими названиями:
+The Atlantic Ocean, the Comoro Islands.
+4.С названиями кинотеатров, отелей, фирм и пр.:
+The Hilton hotel, the Lourve.
+5.С прилагательными в высшей степени сравнения:
+The best, the most beautiful.
+6.С музыкальными инструментами и навзваниями
+известных танцевальных направлений:
+the ballet, the piano.
+</font>
+</p>
+</p>
+</pre>

@@ -1,0 +1,10 @@
+release/animals.o
+release/food.o
+release/main.o
+release/mainwindow.o
+release/window_game_1.o
+release/qrc_resss.o
+release/moc_animals.o
+release/moc_food.o
+release/moc_mainwindow.o
+release/moc_window_game_1.o
